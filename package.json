@@ -1,10 +1,9 @@
 {
-  "name": "js-starter",
+  "name": "gads-weatherapp",
   "version": "0.0.1",
-  "description": "A boilerplate for starting js code",
+  "description": "A simple app to search for and get Weather Information",
   "keywords": [
-    "js-starter",
-    "boilerplate"
+    "weather app"
   ],
   "private": false,
   "main": "dist/index.js",
@@ -20,8 +19,8 @@
     "start": "parcel ./src/index.html"
   },
   "author": {
-    "name": "Build For SDG",
-    "email": "buildforsdg@andela.com"
+    "name": "Ore Akinwole",
+    "email": "oreakinwole@gmail.com"
   },
   "homepage": "https://github.com/BuildForSDG/js-starter#readme",
   "repository": {
