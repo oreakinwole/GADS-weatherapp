@@ -17,6 +17,7 @@ module.exports = {
   rules: {
     'comma-dangle': ['error', 'never'],
     'no-param-reassign': ['error', { props: false }],
-    "indent": ["error", 4]
+    "indent": ["error", 4],
+    "max-len": ["error", 200]
   }
 };
